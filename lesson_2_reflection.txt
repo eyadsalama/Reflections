@@ -15,3 +15,6 @@ it's helpful if u want to move on diffrent piece of work or  add something i wan
 How do the diagrams help you visualize the branch structure?
 it helps alot to visualize the whole project where it is going and where it branched also to keep master branch together 
 using git log --graph --oneline master branch1 branch 2 let me visualize the graph 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do? 
+the result is adding new things that wasnt existing b4 in the master branch and they both now will be shown as they r one branch though we still show it in the diagram we di cause they merged in time stamp but still GIT knows each commit has its own parent in its old branch 

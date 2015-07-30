@@ -10,4 +10,4 @@ cause is staging is doing add one at a time it is easier to do it 1 commit/logic
 i can always use git diff to compare stage area and working directory to see the last changes i have done and then commit them 
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-it's helpful if u want to add something i want to use in some situations but not always or not a standard update maybe for test maybe for other purpose so it is helpful to add beanch using  {git branch "name" } and checkout that name to let the changes occur to it not to the master
+it's helpful if u want to move on diffrent piece of work or  add something i want to use in some situations but not always or not a standard update maybe for test maybe for other purpose so it is helpful to add beanch using  {git branch "name" } and checkout that name to let the changes occur to it not to the master

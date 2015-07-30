@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+.git fil is created in the directory and it store every change or commit i create in it 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+the staging are is an intermediate area between working directory and repository and it let me add commits in the repsository by more control by allowing me to specify what exactly changes should be commited 
+i can add files one at a time to the staging area

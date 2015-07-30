@@ -4,3 +4,10 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 the staging are is an intermediate area between working directory and repository and it let me add commits in the repsository by more control by allowing me to specify what exactly changes should be commited 
 i can add files one at a time to the staging area
+
+How can you use the staging area to make sure you have one commit per logical change?
+cause is staging is doing add one at a time it is easier to do it 1 commit/logical change 
+i can always use git diff to compare stage area and working directory to see the last changes i have done and then commit them 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+it's helpful if u want to add something i want to use in some situations but not always or not a standard update maybe for test maybe for other purpose so it is helpful to add beanch using  {git branch "name" } and checkout that name to let the changes occur to it not to the master

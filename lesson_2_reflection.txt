@@ -11,3 +11,7 @@ i can always use git diff to compare stage area and working directory to see the
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 it's helpful if u want to move on diffrent piece of work or  add something i want to use in some situations but not always or not a standard update maybe for test maybe for other purpose so it is helpful to add beanch using  {git branch "name" } and checkout that name to let the changes occur to it not to the master it  is like context switching i always have master branch that u want to keep it organized and full working and sometimes u need to have devlopment branch that ur that active work taking place on ur project  or experimental brnach that u expext it to break or crush and keep things organixed when working with others
+
+How do the diagrams help you visualize the branch structure?
+it helps alot to visualize the whole project where it is going and where it branched also to keep master branch together 
+using git log --graph --oneline master branch1 branch 2 let me visualize the graph 

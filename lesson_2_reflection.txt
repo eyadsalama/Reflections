@@ -18,3 +18,6 @@ using git log --graph --oneline master branch1 branch 2 let me visualize the gra
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do? 
 the result is adding new things that wasnt existing b4 in the master branch and they both now will be shown as they r one branch though we still show it in the diagram we di cause they merged in time stamp but still GIT knows each commit has its own parent in its old branch 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+automatic merging is cool and provide us alot of comfort and less time and if there is conflicts it will refer that to us to easily remove the conflicts in the other case manual merging will take time and may have alot of errors

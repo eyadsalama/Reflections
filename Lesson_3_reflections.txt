@@ -42,3 +42,18 @@ and what would be harder?
     would be a ligter-weight solution than using Git and GitHub.  However, if we
     both wanted to work on the same part of the file, it would be very difficult
     to avoid clobbering each other's changes.
+Real-time collaborative editors like Google Docs are also great for
+    collaboration, but I don't know a good version of Google Docs for code.
+    Even if I did, I would be hesitant to use this approach on code that it's
+    important to keep bug-free.  I would be worried that someone else would add
+    a change that combined with my change to make a bug, and I might not even
+    notice their change
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+just as we said b4 working on a branch has the benfit that i can ommit it if i am not sure if it is good for the main project like adding an extra feature another component in that case would be more suitable to work on a branch while working in master would be more easier so that no merging no other paths 
+one of the benfits that i can just ignore that branch if i dont want to add it or accept when i find it is suitable t add whenever i want 
+also I tend to work directly in master more often when I'm working on my own or
+    with just one or two other people.  When working with a large group, though,
+    using branches to keep track of which changes have already been reviewed and
+    approved is extremely helpful.
